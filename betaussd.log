@@ -1,0 +1,816 @@
+2014-06-19 15:03:04,650 104   INFO  [za.co.mtn.ti.betaLabs.App] (main:) Connection status: true
+2014-06-19 15:03:24,738 20192 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27717672052
+2014-06-19 15:03:27,964 23418 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27734219607
+2014-06-19 15:03:28,876 24330 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27832091323
+2014-06-19 15:04:15,193 70647 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27736296975
+2014-06-19 15:04:18,206 73660 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27788459986
+2014-06-19 15:04:41,749 97203 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27788459986
+2014-06-19 15:04:58,081 113535 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27788459986
+2014-06-19 15:05:12,612 128066 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27719423375
+2014-06-19 15:05:40,254 155708 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27735135388
+2014-06-19 15:05:48,423 163877 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27735397118
+2014-06-19 15:05:51,635 167089 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27781276300
+2014-06-19 15:05:54,654 170108 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27738617867
+2014-06-19 15:06:12,155 187609 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27738324959
+2014-06-19 15:06:12,713 188167 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27718136257
+2014-06-19 15:06:15,024 190478 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27710299601
+2014-06-19 15:06:15,134 190588 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27736205822
+2014-06-19 15:06:16,120 191574 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27731152852
+2014-06-19 15:06:48,970 224424 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27718469533
+2014-06-19 15:06:52,180 227634 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27718136257
+2014-06-19 15:07:20,869 256323 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27835950832
+2014-06-19 15:07:34,949 270403 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:07:34,950 270404 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27789066530
+2014-06-19 15:07:34,954 270408 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:07:34,956 270410 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:07:34,960 270414 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:07:34,960 270414 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:07:36,523 271977 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:07:36,607 272061 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:07:36,617 272071 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:07:36,617 272071 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0780285854
+2014-06-19 15:07:36,624 272078 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:07:36,625 272079 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27810548678
+2014-06-19 15:08:05,960 301414 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:08:05,960 301414 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27810925041
+2014-06-19 15:08:30,692 326146 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:08:30,692 326146 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27735392716
+2014-06-19 15:08:58,427 353881 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:08:58,428 353882 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27785380470
+2014-06-19 15:08:58,431 353885 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:08:58,432 353886 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:08:58,435 353889 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:08:58,436 353890 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:08:58,626 354080 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:08:58,627 354081 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:08:58,627 354081 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:08:58,627 354081 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0782879694
+2014-06-19 15:08:59,434 354888 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:08:59,435 354889 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27718136257
+2014-06-19 15:09:08,852 364306 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27739097419
+2014-06-19 15:09:36,387 391841 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:09:36,388 391842 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27833554538
+2014-06-19 15:09:36,392 391846 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:09:36,392 391846 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:09:36,395 391849 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:09:36,396 391850 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:09:36,551 392005 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:09:36,552 392006 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:09:36,552 392006 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:09:36,552 392006 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0835809529
+2014-06-19 15:09:37,260 392714 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:09:37,279 392733 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27739097419
+2014-06-19 15:09:51,800 407254 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:09:51,800 407254 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27717060001
+2014-06-19 15:09:51,804 407258 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:09:51,804 407258 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:09:51,808 407262 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:09:51,808 407262 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:09:51,956 407410 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:09:51,957 407411 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:09:51,958 407412 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:09:51,958 407412 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0839301022
+2014-06-19 15:10:12,386 427840 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:10:12,386 427840 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27788393241
+2014-06-19 15:10:25,832 441286 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27730073538
+2014-06-19 15:10:26,443 441897 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:10:26,443 441897 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:10:26,447 441901 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:10:26,447 441901 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:10:26,642 442096 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:10:26,643 442097 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:10:26,643 442097 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:10:26,643 442097 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0732260856
+2014-06-19 15:10:28,817 444271 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27785879499
+2014-06-19 15:10:32,029 447483 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27780629981
+2014-06-19 15:10:40,108 455562 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27732183157
+2014-06-19 15:10:52,336 467790 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:10:52,336 467790 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27739097419
+2014-06-19 15:11:44,192 519646 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:11:44,193 519647 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27833928741
+2014-06-19 15:11:44,196 519650 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:11:44,197 519651 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:11:44,200 519654 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:11:44,200 519654 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:11:44,336 519790 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:11:44,337 519791 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:11:44,337 519791 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:11:44,337 519791 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0833928741
+2014-06-19 15:11:46,446 521900 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:11:46,446 521900 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27733487117
+2014-06-19 15:11:46,450 521904 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:11:46,450 521904 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:11:46,454 521908 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:11:46,454 521908 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:11:46,574 522028 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:11:46,575 522029 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:11:46,575 522029 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:11:46,576 522030 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0737430930
+2014-06-19 15:11:55,091 530545 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27737951112
+2014-06-19 15:11:58,301 533755 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27604349476
+2014-06-19 15:12:06,485 541939 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:12:06,485 541939 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27787161283
+2014-06-19 15:12:18,603 554057 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:12:18,604 554058 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27717692638
+2014-06-19 15:12:44,037 579491 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:12:44,037 579491 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27781828024
+2014-06-19 15:12:47,447 582901 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:12:47,447 582901 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27787161283
+2014-06-19 15:12:47,554 583008 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:12:47,554 583008 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27717061994
+2014-06-19 15:12:55,973 591427 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27739097419
+2014-06-19 15:13:04,996 600450 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:13:04,997 600451 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27739008679
+2014-06-19 15:13:05,004 600458 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:13:05,004 600458 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27786112216
+2014-06-19 15:13:05,008 600462 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:13:05,008 600462 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:13:05,012 600466 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:13:05,012 600466 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:13:05,155 600609 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:13:05,156 600610 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:13:05,156 600610 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:13:05,156 600610 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0728240998
+2014-06-19 15:13:11,170 606624 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:13:11,232 606686 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27787161283
+2014-06-19 15:13:13,041 608495 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:13:13,041 608495 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:13:13,044 608498 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:13:13,045 608499 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:13:13,152 608606 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:13:13,153 608607 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:13:13,154 608608 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:13:13,154 608608 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0833980634
+2014-06-19 15:13:26,578 622032 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27738274936
+2014-06-19 15:13:35,794 631248 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:13:35,794 631248 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27739097419
+2014-06-19 15:13:39,305 634759 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:13:39,305 634759 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27710232335
+2014-06-19 15:13:39,309 634763 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:13:39,309 634763 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:13:39,312 634766 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:13:39,313 634767 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:13:39,421 634875 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:13:39,422 634876 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:13:39,423 634877 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:13:39,423 634877 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0838824296
+2014-06-19 15:13:48,042 643496 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:13:48,042 643496 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:13:48,045 643499 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:13:48,046 643500 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:13:48,157 643611 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:13:48,158 643612 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:13:48,158 643612 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:13:48,158 643612 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0833980634
+2014-06-19 15:14:09,686 665140 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:14:09,687 665141 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27734980907
+2014-06-19 15:14:09,691 665145 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:14:09,691 665145 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:14:09,695 665149 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:14:09,695 665149 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:14:09,804 665258 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:14:09,805 665259 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:14:09,805 665259 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:14:09,805 665259 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0740498980
+2014-06-19 15:14:33,531 688985 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:14:33,532 688986 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27739097419
+2014-06-19 15:14:42,750 698204 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:14:42,750 698204 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27710802563
+2014-06-19 15:14:48,663 704117 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:14:48,664 704118 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:14:48,667 704121 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:14:48,668 704122 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:14:48,775 704229 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:14:48,776 704230 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:14:48,776 704230 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:14:48,776 704230 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0719509997
+2014-06-19 15:14:48,782 704236 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:14:48,782 704236 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27788222347
+2014-06-19 15:14:48,786 704240 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:14:48,786 704240 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:14:48,789 704243 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:14:48,789 704243 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:14:48,890 704344 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:14:48,891 704345 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:14:48,891 704345 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:14:48,891 704345 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0833507412
+2014-06-19 15:14:49,598 705052 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:14:49,599 705053 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27839661146
+2014-06-19 15:14:51,507 706961 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:14:51,507 706961 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27732689751
+2014-06-19 15:14:51,511 706965 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:14:51,511 706965 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:14:51,514 706968 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:14:51,514 706968 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:14:51,683 707137 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:14:51,684 707138 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:14:51,684 707138 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:14:51,685 707139 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0737748308
+2014-06-19 15:14:59,099 714553 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:14:59,100 714554 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27739097419
+2014-06-19 15:15:02,912 718366 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:15:02,912 718366 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27603532099
+2014-06-19 15:15:02,916 718370 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:15:02,917 718371 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:15:02,920 718374 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:15:02,920 718374 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:15:03,046 718500 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:15:03,048 718502 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:15:03,048 718502 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:15:03,048 718502 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0732039037
+2014-06-19 15:15:16,569 732023 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:15:16,569 732023 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27839661146
+2014-06-19 15:15:45,503 760957 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:15:45,503 760957 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27736214390
+2014-06-19 15:15:45,507 760961 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:15:45,507 760961 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:15:45,510 760964 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:15:45,510 760964 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:15:45,605 761059 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:15:45,606 761060 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:15:45,606 761060 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:15:45,606 761060 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0604797233
+2014-06-19 15:15:57,325 772779 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:15:57,326 772780 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27717614975
+2014-06-19 15:16:07,642 783096 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:16:07,642 783096 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27780828711
+2014-06-19 15:16:08,552 784006 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:16:08,552 784006 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27839661146
+2014-06-19 15:16:09,960 785414 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:16:09,960 785414 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27717302966
+2014-06-19 15:16:09,964 785418 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:16:09,965 785419 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:16:09,968 785422 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:16:09,968 785422 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:16:10,059 785513 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:16:10,060 785514 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:16:10,060 785514 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:16:10,061 785515 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0747983771
+2014-06-19 15:16:10,567 786021 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:16:10,567 786021 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27733974082
+2014-06-19 15:16:10,571 786025 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:16:10,571 786025 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:16:10,574 786028 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:16:10,575 786029 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:16:10,663 786117 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:16:10,664 786118 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:16:10,664 786118 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:16:10,664 786118 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0839968891
+2014-06-19 15:16:14,174 789628 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:16:14,174 789628 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27780365550
+2014-06-19 15:16:15,181 790635 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:16:15,232 790686 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27837232857
+2014-06-19 15:16:15,250 790704 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:16:15,250 790704 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:16:15,254 790708 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:16:15,254 790708 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:16:15,343 790797 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:16:15,344 790798 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:16:15,345 790799 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:16:15,345 790799 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0787459123
+2014-06-19 15:16:20,058 795512 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:16:20,058 795512 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27786172967
+2014-06-19 15:16:20,062 795516 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:16:20,062 795516 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:16:20,065 795519 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:16:20,065 795519 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:16:20,150 795604 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:16:20,151 795605 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:16:20,152 795606 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:16:20,152 795606 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0789245898
+2014-06-19 15:18:00,840 896294 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:18:00,841 896295 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27785380470
+2014-06-19 15:18:00,844 896298 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:18:00,845 896299 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:18:00,848 896302 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:18:00,848 896302 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:18:00,934 896388 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:18:00,935 896389 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:18:00,935 896389 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:18:00,935 896389 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0782879694
+2014-06-19 15:19:01,795 957249 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:19:01,795 957249 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27717692638
+2014-06-19 15:19:17,616 973070 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:19:17,617 973071 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27786265170
+2014-06-19 15:19:17,620 973074 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:19:17,620 973074 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:19:17,623 973077 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:19:17,624 973078 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:19:17,710 973164 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:19:17,711 973165 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:19:17,711 973165 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:19:17,711 973165 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0797748184
+2014-06-19 15:19:42,536 997990 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:19:42,537 997991 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27834750557
+2014-06-19 15:19:48,849 1004303 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:19:48,850 1004304 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27737492659
+2014-06-19 15:19:48,853 1004307 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:19:48,905 1004359 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:19:48,908 1004362 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:19:48,908 1004362 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:19:48,993 1004447 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:19:48,994 1004448 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:19:48,994 1004448 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:19:48,994 1004448 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0734249826
+2014-06-19 15:19:55,406 1010860 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:19:55,407 1010861 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27603446309
+2014-06-19 15:19:55,410 1010864 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:19:55,410 1010864 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:19:55,413 1010867 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:19:55,414 1010868 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:19:55,497 1010951 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:19:55,498 1010952 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:19:55,498 1010952 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:19:55,498 1010952 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0603446309
+2014-06-19 15:19:59,207 1014661 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:19:59,207 1014661 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27736141329
+2014-06-19 15:20:01,515 1016969 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:20:01,516 1016970 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27737492659
+2014-06-19 15:20:01,519 1016973 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:20:01,520 1016974 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:20:01,523 1016977 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:20:01,523 1016977 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:20:01,607 1017061 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:20:01,608 1017062 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:20:01,609 1017063 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:20:01,609 1017063 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0734249826
+2014-06-19 15:20:40,252 1055706 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:20:40,252 1055706 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27736141329
+2014-06-19 15:21:01,282 1076736 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27786017826
+2014-06-19 15:21:03,333 1078787 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27736141329
+2014-06-19 15:21:21,658 1097112 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:21:21,659 1097113 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27736141329
+2014-06-19 15:21:24,167 1099621 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:21:24,168 1099622 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27733626913
+2014-06-19 15:22:20,627 1156081 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:22:20,627 1156081 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27789440114
+2014-06-19 15:22:41,351 1176805 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:22:41,351 1176805 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27736141329
+2014-06-19 15:22:46,466 1181920 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:22:46,466 1181920 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27736627346
+2014-06-19 15:23:09,995 1205449 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:23:09,996 1205450 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27604696805
+2014-06-19 15:23:10,102 1205556 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:23:10,102 1205556 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27789616562
+2014-06-19 15:23:10,106 1205560 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:23:10,106 1205560 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:23:10,109 1205563 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:23:10,110 1205564 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:23:10,239 1205693 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:23:10,240 1205694 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:23:10,240 1205694 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:23:10,240 1205694 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0768573348
+2014-06-19 15:23:10,347 1205801 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:23:10,347 1205801 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:23:10,350 1205804 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:23:10,351 1205805 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:23:10,434 1205888 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:23:10,435 1205889 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:23:10,435 1205889 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:23:10,435 1205889 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:Nazy go 2 hell
+2014-06-19 15:23:19,352 1214806 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:23:19,352 1214806 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27717252715
+2014-06-19 15:23:30,770 1226224 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:23:30,770 1226224 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27838807024
+2014-06-19 15:23:51,097 1246551 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:23:51,097 1246551 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27838807024
+2014-06-19 15:24:03,618 1259072 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:24:03,619 1259073 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27838807024
+2014-06-19 15:24:15,338 1270792 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:24:15,338 1270792 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27734415901
+2014-06-19 15:24:15,341 1270795 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:24:15,342 1270796 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:24:15,345 1270799 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:24:15,345 1270799 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:24:15,426 1270880 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:24:15,427 1270881 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:24:15,427 1270881 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:24:15,427 1270881 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0728726560
+2014-06-19 15:24:15,833 1271287 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:24:15,834 1271288 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27781675427
+2014-06-19 15:24:15,837 1271291 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:24:15,838 1271292 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:24:15,840 1271294 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:24:15,841 1271295 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:24:15,919 1271373 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:24:15,920 1271374 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:24:15,920 1271374 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:24:15,920 1271374 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0762982702
+2014-06-19 15:24:21,932 1277386 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:24:21,933 1277387 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27789522077
+2014-06-19 15:24:21,936 1277390 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:24:21,936 1277390 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:24:21,939 1277393 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:24:21,940 1277394 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:24:22,018 1277472 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:24:22,018 1277472 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:24:22,019 1277473 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:24:22,019 1277473 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0783400848
+2014-06-19 15:24:35,237 1290691 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:24:35,237 1290691 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:24:35,240 1290694 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:24:35,240 1290694 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:24:35,318 1290772 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:24:35,319 1290773 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:24:35,319 1290773 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:24:35,319 1290773 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0838807024
+2014-06-19 15:24:39,329 1294783 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:24:39,329 1294783 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27833687406
+2014-06-19 15:24:39,332 1294786 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:24:39,333 1294787 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:24:39,336 1294790 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:24:39,336 1294790 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:24:39,413 1294867 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:24:39,414 1294868 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:24:39,414 1294868 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:24:39,414 1294868 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0734479669
+2014-06-19 15:24:41,422 1296876 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:24:41,422 1296876 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27604749505
+2014-06-19 15:24:42,429 1297883 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:24:42,430 1297884 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27789133339
+2014-06-19 15:24:42,433 1297887 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:24:42,433 1297887 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:24:42,436 1297890 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:24:42,437 1297891 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:24:42,516 1297970 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:24:42,517 1297971 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:24:42,517 1297971 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:24:42,517 1297971 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0767311547
+2014-06-19 15:24:46,726 1302180 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:24:46,726 1302180 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27838807024
+2014-06-19 15:25:02,149 1317603 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:25:02,150 1317604 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27838807024
+2014-06-19 15:25:21,578 1337032 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:25:21,578 1337032 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27710267642
+2014-06-19 15:25:22,585 1338039 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:25:22,585 1338039 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27838807024
+2014-06-19 15:25:35,006 1350460 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:25:35,006 1350460 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27838807024
+2014-06-19 15:25:41,218 1356672 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:25:41,219 1356673 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27838868610
+2014-06-19 15:25:41,222 1356676 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:25:41,222 1356676 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:25:41,225 1356679 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:25:41,226 1356680 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:25:41,302 1356756 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:25:41,303 1356757 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:25:41,303 1356757 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:25:41,303 1356757 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0730172874
+2014-06-19 15:25:52,625 1368079 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:25:52,626 1368080 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27736141329
+2014-06-19 15:26:10,957 1386411 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:26:10,957 1386411 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27838807024
+2014-06-19 15:26:30,182 1405636 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:26:30,182 1405636 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27736141329
+2014-06-19 15:27:01,818 1437272 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:27:01,819 1437273 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27738830422
+2014-06-19 15:27:01,822 1437276 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:27:01,823 1437277 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:27:01,827 1437281 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:27:01,827 1437281 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:27:01,906 1437360 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:27:01,907 1437361 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:27:01,907 1437361 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:27:01,907 1437361 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0710264495
+2014-06-19 15:27:04,218 1439672 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:27:04,218 1439672 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27731030219
+2014-06-19 15:27:04,238 1439692 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:27:04,239 1439693 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:27:04,242 1439696 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:27:04,242 1439696 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:27:04,368 1439822 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:27:04,369 1439823 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:27:04,369 1439823 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:27:04,369 1439823 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0765604905
+2014-06-19 15:27:14,584 1450038 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:27:14,585 1450039 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27788815857
+2014-06-19 15:27:14,588 1450042 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:27:14,588 1450042 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:27:14,591 1450045 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:27:14,592 1450046 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:27:14,669 1450123 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:27:14,670 1450124 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:27:14,670 1450124 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:27:14,670 1450124 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0782558989
+2014-06-19 15:27:39,497 1474951 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:27:39,498 1474952 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27810685600
+2014-06-19 15:27:39,501 1474955 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:27:39,502 1474956 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:27:39,505 1474959 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:27:39,505 1474959 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:27:39,580 1475034 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:27:39,581 1475035 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:27:39,581 1475035 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:27:39,581 1475035 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0716344730
+2014-06-19 15:27:45,493 1480947 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:27:45,494 1480948 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27780711805
+2014-06-19 15:27:47,602 1483056 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:27:47,602 1483056 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27780640228
+2014-06-19 15:27:48,910 1484364 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:27:48,910 1484364 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27739327887
+2014-06-19 15:28:16,446 1511900 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:28:16,447 1511901 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27780711805
+2014-06-19 15:28:23,560 1519014 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:28:23,560 1519014 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27835323633
+2014-06-19 15:28:23,564 1519018 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:28:23,565 1519019 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:28:23,568 1519022 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:28:23,568 1519022 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:28:23,644 1519098 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:28:23,645 1519099 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:28:23,646 1519100 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:28:23,646 1519100 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0603878727
+2014-06-19 15:28:51,172 1546626 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:28:51,172 1546626 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:28:51,175 1546629 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:28:51,176 1546630 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:28:51,248 1546702 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:28:51,249 1546703 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:28:51,250 1546704 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:28:51,250 1546704 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0780711805
+2014-06-19 15:28:56,662 1552116 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:28:56,662 1552116 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27736138698
+2014-06-19 15:28:56,665 1552119 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:28:56,666 1552120 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:28:56,669 1552123 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:28:56,669 1552123 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:28:56,744 1552198 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:28:56,746 1552200 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:28:56,746 1552200 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:28:56,746 1552200 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0732150899
+2014-06-19 15:29:13,965 1569419 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:29:13,966 1569420 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27780711805
+2014-06-19 15:29:18,876 1574330 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:29:18,876 1574330 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27736138698
+2014-06-19 15:29:18,880 1574334 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:29:18,880 1574334 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:29:18,883 1574337 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:29:18,883 1574337 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:29:18,955 1574409 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:29:18,956 1574410 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:29:18,956 1574410 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:29:18,956 1574410 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0732150899
+2014-06-19 15:29:32,376 1587830 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:29:32,377 1587831 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27780711805
+2014-06-19 15:29:35,485 1590939 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:29:35,486 1590940 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27782227056
+2014-06-19 15:29:35,489 1590943 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:29:35,489 1590943 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:29:35,492 1590946 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:29:35,492 1590946 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:29:35,563 1591017 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:29:35,564 1591018 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:29:35,564 1591018 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:29:35,565 1591019 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0827091440
+2014-06-19 15:29:47,885 1603339 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:29:47,885 1603339 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27603224577
+2014-06-19 15:29:49,893 1605347 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:29:49,893 1605347 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27780711805
+2014-06-19 15:30:11,424 1626878 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:30:11,424 1626878 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27603224577
+2014-06-19 15:30:13,332 1628786 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:30:13,332 1628786 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:30:13,335 1628789 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:30:13,335 1628789 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:30:13,405 1628859 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:30:13,406 1628860 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:30:13,406 1628860 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:30:13,407 1628861 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0786767866
+2014-06-19 15:30:31,931 1647385 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:30:31,932 1647386 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27834760553
+2014-06-19 15:30:31,935 1647389 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:30:31,936 1647390 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:30:31,939 1647393 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:30:31,939 1647393 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:30:32,014 1647468 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:30:32,015 1647469 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:30:32,016 1647470 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:30:32,016 1647470 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0735879503
+2014-06-19 15:31:13,955 1689409 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:31:13,955 1689409 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27718422962
+2014-06-19 15:31:27,775 1703229 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:31:27,775 1703229 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27604743482
+2014-06-19 15:31:57,807 1733261 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:31:57,807 1733261 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27784086009
+2014-06-19 15:31:57,811 1733265 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:31:57,811 1733265 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:31:57,814 1733268 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:31:57,814 1733268 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:31:57,886 1733340 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:31:57,886 1733340 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:31:57,887 1733341 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:31:57,887 1733341 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0744242213
+2014-06-19 15:32:19,707 1755161 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:32:19,707 1755161 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27787131714
+2014-06-19 15:32:19,711 1755165 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:32:19,711 1755165 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:32:19,714 1755168 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:32:19,714 1755168 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:32:19,851 1755305 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:32:19,852 1755306 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:32:19,852 1755306 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:32:19,852 1755306 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0730364604
+2014-06-19 15:33:02,597 1798051 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:33:02,597 1798051 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27781510504
+2014-06-19 15:33:21,821 1817275 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:33:21,821 1817275 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27833692338
+2014-06-19 15:33:44,550 1840004 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:33:44,550 1840004 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27780711805
+2014-06-19 15:33:56,870 1852324 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:33:56,870 1852324 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27833692338
+2014-06-19 15:34:09,488 1864942 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:34:09,488 1864942 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27781510504
+2014-06-19 15:34:20,306 1875760 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:34:20,306 1875760 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27734720150
+2014-06-19 15:34:22,014 1877468 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:34:22,015 1877469 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27789336853
+2014-06-19 15:34:22,018 1877472 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:34:22,018 1877472 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:34:22,021 1877475 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:34:22,021 1877475 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:34:22,091 1877545 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:34:22,092 1877546 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:34:22,092 1877546 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:34:22,092 1877546 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0603985405
+2014-06-19 15:34:38,917 1894371 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:34:38,917 1894371 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27832091323
+2014-06-19 15:34:49,035 1904489 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:34:49,036 1904490 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:34:49,038 1904492 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:34:49,039 1904493 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:34:49,108 1904562 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:34:49,109 1904563 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:34:49,109 1904563 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:34:49,109 1904563 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0
+2014-06-19 15:34:49,215 1904669 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:34:49,215 1904669 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27785639082
+2014-06-19 15:34:49,218 1904672 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:34:49,218 1904672 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:34:49,221 1904675 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:34:49,221 1904675 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:34:49,290 1904744 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:34:49,291 1904745 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:34:49,291 1904745 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:34:49,292 1904746 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0780841126
+2014-06-19 15:34:59,507 1914961 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:34:59,508 1914962 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27832091323
+2014-06-19 15:35:03,517 1918971 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:35:03,517 1918971 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27785918189
+2014-06-19 15:35:03,521 1918975 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:35:03,521 1918975 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:35:03,524 1918978 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:35:03,524 1918978 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:35:03,595 1919049 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:35:03,596 1919050 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:35:03,596 1919050 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:35:03,596 1919050 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0787358747
+2014-06-19 15:35:12,911 1928365 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:35:12,911 1928365 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27735881010
+2014-06-19 15:35:13,619 1929073 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:35:13,619 1929073 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:35:13,622 1929076 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:35:13,622 1929076 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:35:13,692 1929146 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:35:13,693 1929147 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:35:13,693 1929147 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:35:13,693 1929147 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0832091323
+2014-06-19 15:35:36,320 1951774 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:35:36,320 1951774 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27832091323
+2014-06-19 15:35:44,637 1960091 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:35:44,637 1960091 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27717200314
+2014-06-19 15:35:53,753 1969207 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:35:53,754 1969208 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:35:53,756 1969210 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:35:53,757 1969211 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:35:53,825 1969279 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:35:53,826 1969280 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:35:53,827 1969281 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:35:53,827 1969281 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:27832091323
+2014-06-19 15:36:01,442 1976896 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:36:01,442 1976896 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27785840990
+2014-06-19 15:36:54,494 2029948 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:36:54,494 2029948 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27780711805
+2014-06-19 15:36:55,802 2031256 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:36:55,802 2031256 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27784021540
+2014-06-19 15:37:07,922 2043376 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:37:07,922 2043376 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27789367090
+2014-06-19 15:37:07,926 2043380 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:37:07,926 2043380 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:37:07,929 2043383 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:37:07,929 2043383 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:37:07,998 2043452 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:37:07,999 2043453 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:37:07,999 2043453 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:37:07,999 2043453 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0839690030
+2014-06-19 15:37:20,817 2056271 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:37:20,817 2056271 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27732949538
+2014-06-19 15:37:20,821 2056275 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:37:20,821 2056275 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:37:20,824 2056278 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:37:20,824 2056278 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:37:20,892 2056346 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:37:20,893 2056347 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:37:20,893 2056347 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:37:20,894 2056348 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0769518707
+2014-06-19 15:37:38,718 2074172 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:37:38,718 2074172 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27734090541
+2014-06-19 15:37:38,722 2074176 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:37:38,722 2074176 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:37:38,725 2074179 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:37:38,725 2074179 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:37:38,793 2074247 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:37:38,794 2074248 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:37:38,794 2074248 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:37:38,794 2074248 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0731595286
+2014-06-19 15:37:43,906 2079360 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:37:43,906 2079360 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27762814190
+2014-06-19 15:37:43,909 2079363 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:37:43,909 2079363 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:37:43,912 2079366 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:37:43,912 2079366 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:37:44,045 2079499 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:37:44,046 2079500 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:37:44,047 2079501 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:37:44,047 2079501 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0838822017
+2014-06-19 15:37:53,261 2088715 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:37:53,261 2088715 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27786838963
+2014-06-19 15:37:53,265 2088719 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:37:53,265 2088719 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:37:53,268 2088722 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:37:53,268 2088722 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:37:53,335 2088789 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:37:53,336 2088790 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:37:53,337 2088791 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:37:53,337 2088791 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0839407458
+2014-06-19 15:37:53,342 2088796 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:37:53,342 2088796 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27784021540
+2014-06-19 15:38:14,770 2110224 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:38:14,770 2110224 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27789359746
+2014-06-19 15:39:20,535 2175989 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to login
+2014-06-19 15:39:20,535 2175989 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27785339789
+2014-06-19 15:39:20,538 2175992 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:39:20,539 2175993 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error
+2014-06-19 15:39:20,541 2175995 ERROR [za.co.mtn.SPQRClient.SPQR] (main:) org.apache.xmlrpc.XmlRpcException: Failed to execute query.
+2014-06-19 15:39:20,542 2175996 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) SPQR returned error, trying LBS Platform
+2014-06-19 15:39:20,609 2176063 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.io.FileNotFoundException: res/proxy-client-security.xml (No such file or directory)
+2014-06-19 15:39:20,610 2176064 ERROR [za.co.mtn.jvibes.SecurityHandler] (main:) java.lang.NullPointerException
+2014-06-19 15:39:20,610 2176064 ERROR [za.co.mtn.ti.betaLabs.VASHLRtools] (main:) LBS returned error also
+2014-06-19 15:39:20,610 2176064 ERROR [za.co.mtn.ti.betaLabs.Session] (main:) Could not retrieve location:0736152316
+2014-06-19 15:40:06,962 2222416 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27604951814
+2014-06-19 15:40:17,227 2232681 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27604081448
+2014-06-19 15:41:25,096 2300550 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27785579154
+2014-06-19 15:42:02,641 2338095 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27785579154
+2014-06-19 15:42:32,778 2368232 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27739540494
+2014-06-19 15:42:33,929 2369383 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27781861989
+2014-06-19 15:42:47,259 2382713 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27739618087
+2014-06-19 15:43:36,712 2432166 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27788709626
+2014-06-19 15:43:54,569 2450023 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27785579154
+2014-06-19 15:44:26,807 2482261 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27785579154
+2014-06-19 15:44:31,119 2486573 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27786026561
+2014-06-19 15:45:14,157 2529611 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27603592181
+2014-06-19 15:45:47,192 2562646 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27710943254
+2014-06-19 15:46:07,795 2583249 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27604807229
+2014-06-19 15:46:24,221 2599675 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27719767778
+2014-06-19 15:46:31,610 2607064 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27738573484
+2014-06-19 15:46:43,732 2619186 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27739262862
+2014-06-19 15:47:24,108 2659562 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27837974929
+2014-06-19 15:47:49,738 2685192 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27737210794
+2014-06-19 15:48:13,932 2709386 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27783940606
+2014-06-19 15:48:15,159 2710613 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27734112063
+2014-06-19 15:48:22,477 2717931 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27787819851
+2014-06-19 15:48:40,001 2735455 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27736141329
+2014-06-19 15:49:18,445 2773899 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27781248646
+2014-06-19 15:49:19,691 2775145 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27735000540
+2014-06-19 15:49:19,999 2775453 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27835088462
+2014-06-19 15:49:32,377 2787831 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27789742234
+2014-06-19 15:49:45,582 2801036 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27604807229
+2014-06-19 15:50:12,817 2828271 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27736675230
+2014-06-19 15:50:32,944 2848398 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27603419326
+2014-06-19 15:50:36,956 2852410 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27604807229
+2014-06-19 15:50:50,485 2865939 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27732330325
+2014-06-19 15:50:58,621 2874075 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27604807229
+2014-06-19 15:51:04,034 2879488 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27837533313
+2014-06-19 15:51:09,395 2884849 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27837246830
+2014-06-19 15:51:09,703 2885157 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27782533348
+2014-06-19 15:51:16,120 2891574 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27780306165
+2014-06-19 15:51:23,138 2898592 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27604807229
+2014-06-19 15:51:25,148 2900602 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27736675230
+2014-06-19 15:51:30,548 2906002 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27710622636
+2014-06-19 15:52:05,371 2940825 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27604807229
+2014-06-19 15:52:12,291 2947745 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27833303319
+2014-06-19 15:52:18,741 2954195 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27605268356
+2014-06-19 15:52:45,378 2980832 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27787935610
+2014-06-19 15:53:44,840 3040294 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27734112063
+2014-06-19 15:54:35,303 3090757 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27737308595
+2014-06-19 15:55:04,053 3119507 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27781703283
+2014-06-19 15:55:05,561 3121015 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27603313413
+2014-06-19 15:55:28,797 3144251 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27735147447
+2014-06-19 15:55:45,507 3160961 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27603313413
+2014-06-19 15:55:48,419 3163873 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27604103690
+2014-06-19 15:56:11,849 3187303 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27604807229
+2014-06-19 15:56:26,272 3201726 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27604103690
+2014-06-19 15:56:31,386 3206840 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27783649489
+2014-06-19 15:56:35,498 3210952 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27736432107
+2014-06-19 15:56:51,962 3227416 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27836549837
+2014-06-19 15:56:52,473 3227927 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27604807229
+2014-06-19 15:57:00,092 3235546 INFO  [za.co.mtn.ti.betaLabs.Session] (main:) 27789479646
